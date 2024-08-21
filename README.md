@@ -5,7 +5,7 @@ Project description,functions,queries written,environment used are mentioned in 
 
 ### Sales Data - Cleaning & Exploration
 Removing and adding columns as necessary in the tables and preparing the database tables for Analysis.
-Data subset collected in [SQL dump file]() and loaded to SQL server for exploring the data tables.
+Data subset collected in SQL dump file and loaded to SQL server for exploring the data tables.
 Tables:
 1. Customers
 2. Date
@@ -15,10 +15,8 @@ Tables:
 
 ### SQL queries for data cleaning and exploration
 Data acquired is cleansed using SQL queries here.
-[click here to view code]()
 
 ### Analysis using SQL
-[Click here to view code]()
 Queries:
 1. All tables and their rows in sales schema
 2. Date range in date table
@@ -31,7 +29,7 @@ Queries:
 9. Calculating revenue Contribution percentage for each market across all years
 10. Finding market name that made maximum sales
 
-### Data Visualization using [Power BI dashboard]
+### Data Visualization using Power BI dashboard
 Getting data into BI through SQL dump and performing Data Visualization and analysing of hardware store products across different regions, observing profit analysis and revenue trend of the company.
 
 ### Insights:
